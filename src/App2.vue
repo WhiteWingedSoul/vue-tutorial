@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import Events from './components/Events'
+import Events from './components/events/events-component'
 
 export default {
   name: 'App2',
